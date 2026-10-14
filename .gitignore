@@ -6,3 +6,8 @@ node_modules/
 dist/
 build/
 *.log
+pinterest-animal-dedup/.venv/
+pinterest-animal-dedup/**/*.egg-info/
+pinterest-animal-dedup/data/
+pinterest-animal-dedup/artifacts/run_demo*.log
+pinterest-animal-dedup/**/*.sqlite3

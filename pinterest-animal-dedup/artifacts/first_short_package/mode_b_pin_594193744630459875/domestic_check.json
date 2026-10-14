@@ -1,0 +1,275 @@
+{
+  "aggregate_status": "NOT_FOUND",
+  "platforms": [
+    {
+      "platform": "douyin",
+      "status": "NOT_FOUND",
+      "confidence": 0.5,
+      "evidence": [
+        {
+          "platform": "douyin",
+          "query": "狗治愈短视频",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:04.158663",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "douyin",
+          "query": "狗 治愈 视频",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:07.241422",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "douyin",
+          "query": "狗 同款",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:08.738033",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "douyin",
+          "query": "狗 搞笑 动物",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:10.245580",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "douyin",
+          "query": "治愈 狗 宠物",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:13.319657",
+          "error": "no_on_platform_hits"
+        }
+      ],
+      "visual_hamming_min": null,
+      "notes": "No on-platform hits in allowed public search."
+    },
+    {
+      "platform": "kuaishou",
+      "status": "NOT_FOUND",
+      "confidence": 0.5,
+      "evidence": [
+        {
+          "platform": "kuaishou",
+          "query": "狗治愈短视频",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:14.838554",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "kuaishou",
+          "query": "狗 治愈 视频",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:16.345875",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "kuaishou",
+          "query": "狗 同款",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:19.434757",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "kuaishou",
+          "query": "狗 搞笑 动物",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:20.945846",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "kuaishou",
+          "query": "治愈 狗 宠物",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:22.512335",
+          "error": "no_on_platform_hits"
+        }
+      ],
+      "visual_hamming_min": null,
+      "notes": "No on-platform hits in allowed public search."
+    },
+    {
+      "platform": "wechat_channels",
+      "status": "NOT_FOUND",
+      "confidence": 0.5,
+      "evidence": [
+        {
+          "platform": "wechat_channels",
+          "query": "狗治愈短视频",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:25.567742",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "wechat_channels",
+          "query": "狗 治愈 视频",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:28.647370",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "wechat_channels",
+          "query": "狗 同款",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:30.227811",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "wechat_channels",
+          "query": "狗 搞笑 动物",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:33.260325",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "wechat_channels",
+          "query": "治愈 狗 宠物",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:36.353542",
+          "error": "no_on_platform_hits"
+        }
+      ],
+      "visual_hamming_min": null,
+      "notes": "No on-platform hits in allowed public search."
+    },
+    {
+      "platform": "xiaohongshu",
+      "status": "NOT_FOUND",
+      "confidence": 0.5,
+      "evidence": [
+        {
+          "platform": "xiaohongshu",
+          "query": "狗治愈短视频",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:37.899698",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "xiaohongshu",
+          "query": "狗 治愈 视频",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:39.374723",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "xiaohongshu",
+          "query": "狗 同款",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:42.561918",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "xiaohongshu",
+          "query": "狗 搞笑 动物",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:43.967784",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "xiaohongshu",
+          "query": "治愈 狗 宠物",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:47.066148",
+          "error": "no_on_platform_hits"
+        }
+      ],
+      "visual_hamming_min": null,
+      "notes": "No on-platform hits in allowed public search."
+    },
+    {
+      "platform": "bilibili",
+      "status": "NOT_FOUND",
+      "confidence": 0.5,
+      "evidence": [
+        {
+          "platform": "bilibili",
+          "query": "狗治愈短视频",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:48.598897",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "bilibili",
+          "query": "狗 治愈 视频",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:50.127375",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "bilibili",
+          "query": "狗 同款",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:53.176963",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "bilibili",
+          "query": "狗 搞笑 动物",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:54.684864",
+          "error": "no_on_platform_hits"
+        },
+        {
+          "platform": "bilibili",
+          "query": "治愈 狗 宠物",
+          "result_url": null,
+          "title": null,
+          "snippet": null,
+          "fetched_at": "2026-10-14T07:43:56.251180",
+          "error": "no_on_platform_hits"
+        }
+      ],
+      "visual_hamming_min": null,
+      "notes": "No on-platform hits in allowed public search."
+    }
+  ]
+}

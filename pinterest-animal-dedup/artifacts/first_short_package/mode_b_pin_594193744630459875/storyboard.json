@@ -1,0 +1,26 @@
+{
+  "fps": 30,
+  "duration_sec": 18,
+  "shots": [
+    {
+      "t": "0-3",
+      "visual": "Close-up dog, sudden movement",
+      "text": "当我以为今天会很乖…"
+    },
+    {
+      "t": "3-10",
+      "visual": "Mid shot action beat matching reference rhythm",
+      "text": ""
+    },
+    {
+      "t": "10-16",
+      "visual": "Reaction / wholesome punchline",
+      "text": "治愈收尾"
+    },
+    {
+      "t": "16-18",
+      "visual": "Logo or follow CTA",
+      "text": "关注"
+    }
+  ]
+}
