@@ -1,0 +1,12 @@
+{
+  "mode": "B",
+  "target_platforms": [
+    "douyin",
+    "kuaishou",
+    "wechat_channels",
+    "xiaohongshu",
+    "bilibili"
+  ],
+  "disclaimer": "AI-assisted remake; not claiming ownership of Pinterest source.",
+  "score_total": 86.0
+}

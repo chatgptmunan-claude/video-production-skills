@@ -1,0 +1,5678 @@
+[
+  {
+    "pin": {
+      "pin_id": "594193744630459875",
+      "url": "https://www.pinterest.com/pin/594193744630459875/",
+      "title": "he made a statement so healing",
+      "description": "healing",
+      "media_type": "video",
+      "thumbnail_url": "https://i.pinimg.com/736x/71/82/f9/7182f9e980348c241210c91bf5288c7a.jpg",
+      "video_url": null,
+      "source_query": "healing dog moment",
+      "tags": [],
+      "raw": {
+        "id": "594193744630459875",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "dog"
+      ],
+      "tone": [
+        "healing"
+      ],
+      "has_action": true,
+      "hook_notes": "Video pin — prioritize first 3s motion/surprise in remake.",
+      "story_notes": "Micro-moment",
+      "rights_hint": "unclear",
+      "confidence": 0.95
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:04.158663",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:07.241422",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:08.738033",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:10.245580",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:13.319657",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:14.838554",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:16.345875",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:19.434757",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:20.945846",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:22.512335",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:25.567742",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:28.647370",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:30.227811",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:33.260325",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:36.353542",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:37.899698",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:39.374723",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:42.561918",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:43.967784",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:47.066148",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:48.598897",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:50.127375",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:53.176963",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:54.684864",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:56.251180",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "NOT_FOUND",
+    "score": {
+      "funny_healing": 21.0,
+      "hook_first_3s": 20.0,
+      "domestic_freshness": 18.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 5.0,
+      "production_difficulty": 7.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. No strong domestic hit — localize captions and trending audio carefully."
+  },
+  {
+    "pin": {
+      "pin_id": "1150740142331950470",
+      "url": "https://www.pinterest.com/pin/1150740142331950470/",
+      "title": "Cats being funny [Video] | Funny pictures of cats, Funny cats videos, Bob ross",
+      "description": "15 Jul 2026 — Why are cats like this 😭🐱\nI swear they overreact to EVERYTHING…\n\n#cats #funnycats #catsofinstagram #petsofinstagram #catreaction #catlife #animalvideos #cloudyawwww | Cat life, Just for laughs videos, Animal humor",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/11/73/3e/11733eb346e8ea063bdbd831cb7ba560.jpg",
+      "video_url": null,
+      "source_query": "funny cat video short",
+      "tags": [],
+      "raw": {
+        "id": "1150740142331950470",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "cat",
+        "pet",
+        "animal"
+      ],
+      "tone": [
+        "funny"
+      ],
+      "has_action": true,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.6,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "猫搞笑短视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E7%9F%AD%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑短视频合集",
+            "snippet": "猫搞笑短视频合集 猫咪爆火的猫猫的搞笑可爱视频同款 猫搞笑短视频大全 猫咪爆笑视频笑得肚子疼书籍 猫绝育后搞笑视频 猫咪猫猫 …",
+            "fetched_at": "2026-10-14T07:39:07.629881",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91%E6%8E%92%E8%A1%8C",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑视频排行",
+            "snippet": "哈哈哈哈哈哈好好笑！ #猫猫#萌宠出道计划#猫咪的迷惑行为#猫精#猫咪的日常 00:00/05:22 瓜君 · 1年前 2024年爆笑猫咪视频合集： …",
+            "fetched_at": "2026-10-14T07:39:09.106806",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 宠物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:12.200373",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:13.706508",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "搞笑 猫 宠物",
+            "result_url": "https://www.douyin.com/video/7695917506145435337",
+            "title": "douyin.comhttps://www.douyin.com› video",
+            "snippet": "1 day ago· 猫咪搞笑对话 #萌猫宠物 #萌宠猫咪 #可爱萌宠小猫咪 #搞笑猫咪 #搞笑猫咪视频 - 大王宠物馆于20261013发布在抖音，已 …",
+            "fetched_at": "2026-10-14T07:39:15.253295",
+            "error": null
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Multiple on-platform search hits; manual verify recommended."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.45,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:18.320382",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:19.844022",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 宠物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:21.324229",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 动物",
+            "result_url": "https://www.kuaishou.com/",
+            "title": "kuaishou.comhttps://www.kuaishou.com",
+            "snippet": "快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。",
+            "fetched_at": "2026-10-14T07:39:22.830866",
+            "error": null
+          },
+          {
+            "platform": "kuaishou",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:25.985725",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Single on-platform hit; evidence thin."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:27.422299",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:30.537703",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 宠物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:32.025368",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:33.520161",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:36.671129",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:38.162426",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:41.259887",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 宠物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:42.783421",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:45.859752",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:47.392713",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:50.447256",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:51.988271",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 宠物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:53.447741",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:56.572486",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:59.661869",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "POSSIBLE_MATCH",
+    "score": {
+      "funny_healing": 23.0,
+      "hook_first_3s": 16.0,
+      "domestic_freshness": 10.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "768848967672207204",
+      "url": "https://www.pinterest.com/pin/768848967672207204/",
+      "title": "50 Soul-Healing Dog Memes That Are Cute And Funny At The Same Time | Funny dog descriptions, Dog-themed humor posts, Funny dog note",
+      "description": "I, for one, wouldn't mind a dog-pocalypse if it meant I could pet and lounge around with big, fluffy puppers all day. But for now, looking at dog pictures and memes through a screen will have to do. Animals, Dogs | A dogs life, Animal memes",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/6a/68/b6/6a68b6c9045dbae17205b7b531d2f0e2.jpg",
+      "video_url": null,
+      "source_query": "healing dog moment",
+      "tags": [],
+      "raw": {
+        "id": "768848967672207204",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "dog",
+        "pet",
+        "animal"
+      ],
+      "tone": [
+        "funny",
+        "healing"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:58.604854",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:00.033264",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 宠物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:03.185748",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:04.721219",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:07.790469",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:09.245292",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:10.757261",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 宠物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:13.854120",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:16.975498",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:20.121958",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:23.184007",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:26.300038",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 宠物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:29.433994",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:32.528020",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:35.667185",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:38.709655",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:41.847993",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 宠物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:43.347507",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:44.874475",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:47.933535",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:51.097742",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:52.552322",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 宠物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:55.671871",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:42:58.783151",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:43:00.306655",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "NOT_FOUND",
+    "score": {
+      "funny_healing": 25.0,
+      "hook_first_3s": 6.0,
+      "domestic_freshness": 18.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. No strong domestic hit — localize captions and trending audio carefully. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "385902261841989171",
+      "url": "https://www.pinterest.com/pin/385902261841989171/",
+      "title": "That dog is sending some deep healing vibes to the new dog!\n. [Video] | Animals that mean healing, Dog healing quotes, Spiritual dog",
+      "description": "Jun 22, 2026 — ❤️❤️🙏🏻🙏🏻That dog is sending some deep healing vibes to the new dog! . . 💛 Like & Share - Spread Conscious Health Knowledge | Cute funny dogs, Doggos, Funny animal videos",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/ab/ae/c4/abaec4fefd9c512954b01d88698a1850.jpg",
+      "video_url": null,
+      "source_query": "healing dog moment",
+      "tags": [],
+      "raw": {
+        "id": "385902261841989171",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "dog",
+        "animal"
+      ],
+      "tone": [
+        "funny",
+        "healing"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:00.081725",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:03.138742",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:06.253804",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:09.356222",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:10.832873",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:13.941234",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:17.054287",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:20.189685",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:23.306058",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:24.752804",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:27.953904",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:30.988247",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:34.118598",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:37.231998",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:38.710574",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:41.833874",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:44.951431",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:48.126343",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:51.159518",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:54.296638",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:44:57.368099",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:00.489560",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:01.993559",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:03.450965",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:04.959366",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "NOT_FOUND",
+    "score": {
+      "funny_healing": 25.0,
+      "hook_first_3s": 6.0,
+      "domestic_freshness": 18.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. No strong domestic hit — localize captions and trending audio carefully. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "873416921506029618",
+      "url": "https://www.pinterest.com/pin/873416921506029618/",
+      "title": "Healing dog worry stone | Diy clay crafts, Cute crafts, Clay worry stone",
+      "description": "14-Jul-2026 — A round, light-colored object with two small, rounded protrusions on its surface, resembling ears. Below these protrusions, there is another similar shape, which could be interpreted as a tail. Dog clay, Worry stone ideas, Clay ideas",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/4d/e4/46/4de446cf8f5925fcd4016bf7a9e8098e.jpg",
+      "video_url": null,
+      "source_query": "healing dog moment",
+      "tags": [],
+      "raw": {
+        "id": "873416921506029618",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "dog",
+        "monkey"
+      ],
+      "tone": [
+        "healing"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:19.241615",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:22.406490",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:25.448163",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:28.581691",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:31.660979",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:34.772542",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:37.992730",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:40.986630",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:44.082075",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:47.190062",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:50.357748",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:53.407475",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:56.516362",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:59.636790",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:02.742474",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:05.839392",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:08.965695",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:12.037604",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:15.149764",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:18.273657",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:21.352367",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:24.489709",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:27.554741",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:29.050090",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:32.181005",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "NOT_FOUND",
+    "score": {
+      "funny_healing": 25.0,
+      "hook_first_3s": 6.0,
+      "domestic_freshness": 18.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. No strong domestic hit — localize captions and trending audio carefully. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "744571750872109042",
+      "url": "https://www.pinterest.com/pin/744571750872109042/",
+      "title": "Marvel Studios. Deadpool ♥💛💚💙💖💟💗💜❤ | Deadpool with heart, Deadpool funny wallpapers, Deadpool blowing a kiss",
+      "description": "Marvel Studios. Deadpool ♥💛💚💙💖💟💗💜❤ | Cute deadpool, Deadpool artwork, Deadpool quotes",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/80/6f/8c/806f8c8d2202d6e767bf3aa49f86c98c.jpg",
+      "video_url": null,
+      "source_query": "healing dog moment",
+      "tags": [],
+      "raw": {
+        "id": "744571750872109042",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "dog",
+        "monkey"
+      ],
+      "tone": [
+        "funny",
+        "healing"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:52.292945",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:55.358471",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:58.492429",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:00.009998",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:01.506317",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:04.617885",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:07.762423",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:10.794856",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:13.914772",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:15.419753",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:18.522917",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:21.627182",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:24.723776",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:27.834780",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:30.934907",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:34.056118",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:35.566567",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:38.654354",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:40.146459",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:43.240269",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "狗搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:46.374553",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:47.896382",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:49.368813",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:52.484760",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "搞笑 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:55.570308",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "NOT_FOUND",
+    "score": {
+      "funny_healing": 25.0,
+      "hook_first_3s": 6.0,
+      "domestic_freshness": 18.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. No strong domestic hit — localize captions and trending audio carefully. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "503910645819360490",
+      "url": "https://www.pinterest.com/pin/503910645819360490/",
+      "title": "Amazing Cute Cats Funny Viral Clips 😹 | Cat driving memes, Black cat memes hilarious, Funny cats video memes",
+      "description": "Enjoy hilarious and adorable moments with these viral cat videos. Watch these cute feline friends in action and brighten up your day with their playful antics. #funny Cute Cats #shorts Video 😂 | Clips funny",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/bc/64/ff/bc64ff228b95f415844e1dabd8050df4.jpg",
+      "video_url": null,
+      "source_query": "funny cat video short",
+      "tags": [],
+      "raw": {
+        "id": "503910645819360490",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "cat"
+      ],
+      "tone": [
+        "funny",
+        "healing"
+      ],
+      "has_action": true,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.6,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "猫搞笑短视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E7%9F%AD%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑短视频合集",
+            "snippet": "猫搞笑短视频合集 猫咪爆火的猫猫的搞笑可爱视频同款 猫搞笑短视频大全 猫咪爆笑视频笑得肚子疼书籍 猫绝育后搞笑视频 猫咪猫猫 …",
+            "fetched_at": "2026-10-14T07:35:55.850127",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91%E6%8E%92%E8%A1%8C",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑视频排行",
+            "snippet": "哈哈哈哈哈哈好好笑！ #猫猫#萌宠出道计划#猫咪的迷惑行为#猫精#猫咪的日常 00:00/05:22 瓜君 · 1年前 2024年爆笑猫咪视频合集： …",
+            "fetched_at": "2026-10-14T07:35:57.296650",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:00.426187",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:01.916445",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "搞笑 猫 宠物",
+            "result_url": "https://www.douyin.com/video/7695917506145435337",
+            "title": "douyin.comhttps://www.douyin.com› video",
+            "snippet": "1 day ago· 猫咪搞笑对话 #萌猫宠物 #萌宠猫咪 #可爱萌宠小猫咪 #搞笑猫咪 #搞笑猫咪视频 - 大王宠物馆于20261013发布在抖音，已 …Read more",
+            "fetched_at": "2026-10-14T07:36:03.444049",
+            "error": null
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Multiple on-platform search hits; manual verify recommended."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.45,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:04.920262",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:06.495718",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:09.527409",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 动物",
+            "result_url": "https://www.kuaishou.com/",
+            "title": "kuaishou.comhttps://www.kuaishou.com",
+            "snippet": "快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。",
+            "fetched_at": "2026-10-14T07:36:12.668103",
+            "error": null
+          },
+          {
+            "platform": "kuaishou",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:15.728816",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Single on-platform hit; evidence thin."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:18.848445",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:20.347313",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:23.424959",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:24.945772",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:26.462036",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:29.565071",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:32.752923",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:34.167018",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:37.273627",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:40.393111",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:43.493387",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:46.653162",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:49.767847",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:52.793853",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:36:55.918059",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "POSSIBLE_MATCH",
+    "score": {
+      "funny_healing": 25.0,
+      "hook_first_3s": 12.0,
+      "domestic_freshness": 10.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "27866091440637455",
+      "url": "https://www.pinterest.com/pin/27866091440637455/",
+      "title": "Funny Cats - Hilarious Cat Videos | Cat dance video funny dog, Funnycat, Cute cats",
+      "description": "Laugh out loud with these hilarious cat videos! Watch as these funny cats do the silliest things. Perfect for cat lovers and anyone who needs a good laugh.",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/63/92/b2/6392b29d2e1ea35dc51789c2e391c96f.jpg",
+      "video_url": null,
+      "source_query": "funny cat video short",
+      "tags": [],
+      "raw": {
+        "id": "27866091440637455",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "cat",
+        "dog"
+      ],
+      "tone": [
+        "funny",
+        "healing"
+      ],
+      "has_action": true,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.6,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "猫搞笑短视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E7%9F%AD%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑短视频合集",
+            "snippet": "猫搞笑短视频合集 猫咪爆火的猫猫的搞笑可爱视频同款 猫搞笑短视频大全 猫咪爆笑视频笑得肚子疼书籍 猫绝育后搞笑视频 猫咪猫猫 …",
+            "fetched_at": "2026-10-14T07:41:04.263031",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91%E6%8E%92%E8%A1%8C",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑视频排行",
+            "snippet": "哈哈哈哈哈哈好好笑！ #猫猫#萌宠出道计划#猫咪的迷惑行为#猫精#猫咪的日常 00:00/05:22 瓜君 · 1年前 2024年爆笑猫咪视频合集： …",
+            "fetched_at": "2026-10-14T07:41:05.849450",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:07.228672",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:08.768133",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "搞笑 猫 宠物",
+            "result_url": "https://www.douyin.com/video/7695917506145435337",
+            "title": "douyin.comhttps://www.douyin.com› video",
+            "snippet": "1 day ago· 猫咪搞笑对话 #萌猫宠物 #萌宠猫咪 #可爱萌宠小猫咪 #搞笑猫咪 #搞笑猫咪视频 - 大王宠物馆于20261013发布在抖音，已 …",
+            "fetched_at": "2026-10-14T07:41:10.253821",
+            "error": null
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Multiple on-platform search hits; manual verify recommended."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.45,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:11.753735",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:13.278606",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:16.385011",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 动物",
+            "result_url": "https://www.kuaishou.com/",
+            "title": "kuaishou.comhttps://www.kuaishou.com",
+            "snippet": "快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。",
+            "fetched_at": "2026-10-14T07:41:17.900826",
+            "error": null
+          },
+          {
+            "platform": "kuaishou",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:19.564129",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Single on-platform hit; evidence thin."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:22.700814",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:25.586791",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:28.661160",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:30.173186",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:31.681479",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:34.805252",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:37.864443",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:40.991432",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:42.492226",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:44.020690",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:47.075693",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:50.198140",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:51.680928",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:53.227406",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:54.702258",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "POSSIBLE_MATCH",
+    "score": {
+      "funny_healing": 25.0,
+      "hook_first_3s": 12.0,
+      "domestic_freshness": 10.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "871868809103824001",
+      "url": "https://www.pinterest.com/pin/871868809103824001/",
+      "title": "Funny Cats Episode 96 | Short Videos | Funny cats in water, Funny animal clips, Face painting easy",
+      "description": "Enjoy watching these hilarious cats in episode 96 of our funny cat series. Check out more short videos on our Pinterest board! | Cats funny video, Silly cats, Funny cat fails",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/c8/bd/86/c8bd861f5b6c5069c6913a2dc58abc80.jpg",
+      "video_url": null,
+      "source_query": "funny cat video short",
+      "tags": [],
+      "raw": {
+        "id": "871868809103824001",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "cat",
+        "animal"
+      ],
+      "tone": [
+        "funny"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.6,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "猫搞笑短视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E7%9F%AD%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑短视频合集",
+            "snippet": "猫搞笑短视频合集 猫咪爆火的猫猫的搞笑可爱视频同款 猫搞笑短视频大全 猫咪爆笑视频笑得肚子疼书籍 猫绝育后搞笑视频 猫咪猫猫 …",
+            "fetched_at": "2026-10-14T07:32:19.504259",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91%E6%8E%92%E8%A1%8C",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑视频排行",
+            "snippet": "哈哈哈哈哈哈好好笑！ #猫猫#萌宠出道计划#猫咪的迷惑行为#猫精#猫咪的日常 00:00/05:22 瓜君 · 1年前 2024年爆笑猫咪视频合集： …",
+            "fetched_at": "2026-10-14T07:32:22.592137",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 动物 同款",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E7%8B%97%E5%90%8C%E6%A1%86%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫狗同框视频合集",
+            "snippet": "猫狗同框视频合集 猫狗同框视频 搞笑视频猫狗合集 猫狗同框日常 猫狗视频合集 狗狗和猫猫一起出场拍的视频同款 猫狗可爱视频合集  …Read more",
+            "fetched_at": "2026-10-14T07:32:25.681487",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:32:28.857624",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "搞笑 猫 宠物",
+            "result_url": "https://www.douyin.com/video/7695917506145435337",
+            "title": "douyin.comhttps://www.douyin.com› video",
+            "snippet": "1 day ago· 猫咪搞笑对话 #萌猫宠物 #萌宠猫咪 #可爱萌宠小猫咪 #搞笑猫咪 #搞笑猫咪视频 - 大王宠物馆于20261013发布在抖音，已 …",
+            "fetched_at": "2026-10-14T07:32:31.935205",
+            "error": null
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Multiple on-platform search hits; manual verify recommended."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.45,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:32:35.017837",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:32:38.126442",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:32:41.262394",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 动物",
+            "result_url": "https://www.kuaishou.com/",
+            "title": "kuaishou.comhttps://www.kuaishou.com",
+            "snippet": "快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。Read more",
+            "fetched_at": "2026-10-14T07:32:44.358125",
+            "error": null
+          },
+          {
+            "platform": "kuaishou",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:32:47.496582",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Single on-platform hit; evidence thin."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:32:50.668959",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:32:53.687364",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:32:56.802105",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:32:59.902615",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:02.972191",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:04.497236",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:07.586154",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:10.692659",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:13.774827",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:16.934552",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:20.007753",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:23.378686",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:26.469637",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:29.542856",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:32.651780",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "POSSIBLE_MATCH",
+    "score": {
+      "funny_healing": 25.0,
+      "hook_first_3s": 10.0,
+      "domestic_freshness": 10.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "41939840275581341",
+      "url": "https://www.pinterest.com/pin/41939840275581341/",
+      "title": "Cute cats and dogs tiktok | Funny cat videos clean, Funny short video clips, Smiles and laughs",
+      "description": "29-Aug-2026 — A man sitting at a table with a fluffy cat beside him. The man is wearing a black shirt and a cap, and he has a surprised expression. Kat, Cute animals, Aww",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/b0/d0/fa/b0d0fa70b71f68196358ca3cd62f94ac.jpg",
+      "video_url": null,
+      "source_query": "funny cat video short",
+      "tags": [],
+      "raw": {
+        "id": "41939840275581341",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "cat",
+        "dog",
+        "animal"
+      ],
+      "tone": [
+        "funny",
+        "healing"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.6,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "猫搞笑短视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E7%9F%AD%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑短视频合集",
+            "snippet": "猫搞笑短视频合集 猫咪爆火的猫猫的搞笑可爱视频同款 猫搞笑短视频大全 猫咪爆笑视频笑得肚子疼书籍 猫绝育后搞笑视频 猫咪猫猫 …Read more",
+            "fetched_at": "2026-10-14T07:36:59.805230",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91%E6%8E%92%E8%A1%8C",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑视频排行",
+            "snippet": "哈哈哈哈哈哈好好笑！ #猫猫#萌宠出道计划#猫咪的迷惑行为#猫精#猫咪的日常 00:00/05:22 瓜君 · 1年前 2024年爆笑猫咪视频合集： …Read more",
+            "fetched_at": "2026-10-14T07:37:01.295346",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:04.381449",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:05.899975",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "搞笑 猫 宠物",
+            "result_url": "https://www.douyin.com/video/7695917506145435337",
+            "title": "douyin.comhttps://www.douyin.com› video",
+            "snippet": "1 day ago· 猫咪搞笑对话 #萌猫宠物 #萌宠猫咪 #可爱萌宠小猫咪 #搞笑猫咪 #搞笑猫咪视频 - 大王宠物馆于20261013发布在抖音，已 …",
+            "fetched_at": "2026-10-14T07:37:08.971247",
+            "error": null
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Multiple on-platform search hits; manual verify recommended."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.45,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:12.112570",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:15.153880",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:18.309841",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 动物",
+            "result_url": "https://www.kuaishou.com/",
+            "title": "kuaishou.comhttps://www.kuaishou.com",
+            "snippet": "快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。Read more",
+            "fetched_at": "2026-10-14T07:37:19.798573",
+            "error": null
+          },
+          {
+            "platform": "kuaishou",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:22.899866",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Single on-platform hit; evidence thin."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:26.040982",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:27.476889",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:30.638960",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:33.715092",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:36.873958",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:39.937257",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:43.012197",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:44.521110",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:47.612960",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:50.720961",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:53.857243",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:37:56.956631",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:00.048774",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:01.551193",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:03.017096",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "POSSIBLE_MATCH",
+    "score": {
+      "funny_healing": 25.0,
+      "hook_first_3s": 10.0,
+      "domestic_freshness": 10.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "958351995713239220",
+      "url": "https://www.pinterest.com/pin/958351995713239220/",
+      "title": "Cute Cat Videos | Funny Moments | Funny moments of cats, Funny videos of cats, Funny cat videos can't stop laughing",
+      "description": "Aug 29, 2026 — Enjoy 25 adorable cat videos that will make you laugh. Watch as these cute cats have funny moments and fails. #catvideos #funny #moments | Silly cats pictures",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/51/d9/a2/51d9a25201c7bd25b712949fd1ef977d.jpg",
+      "video_url": null,
+      "source_query": "funny cat video short",
+      "tags": [],
+      "raw": {
+        "id": "958351995713239220",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "cat"
+      ],
+      "tone": [
+        "funny",
+        "healing"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.6,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "猫搞笑短视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E7%9F%AD%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑短视频合集",
+            "snippet": "猫搞笑短视频合集 猫咪爆火的猫猫的搞笑可爱视频同款 猫搞笑短视频大全 猫咪爆笑视频笑得肚子疼书籍 猫绝育后搞笑视频 猫咪猫猫 …",
+            "fetched_at": "2026-10-14T07:40:01.910181",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91%E6%8E%92%E8%A1%8C",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑视频排行",
+            "snippet": "哈哈哈哈哈哈好好笑！ #猫猫#萌宠出道计划#猫咪的迷惑行为#猫精#猫咪的日常 00:00/05:22 瓜君 · 1年前 2024年爆笑猫咪视频合集： …",
+            "fetched_at": "2026-10-14T07:40:05.055472",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:08.120961",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:11.232953",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "搞笑 猫 宠物",
+            "result_url": "https://www.douyin.com/video/7695917506145435337",
+            "title": "douyin.comhttps://www.douyin.com› video",
+            "snippet": "1 day ago· 猫咪搞笑对话 #萌猫宠物 #萌宠猫咪 #可爱萌宠小猫咪 #搞笑猫咪 #搞笑猫咪视频 - 大王宠物馆于20261013发布在抖音，已 …Read more",
+            "fetched_at": "2026-10-14T07:40:12.769161",
+            "error": null
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Multiple on-platform search hits; manual verify recommended."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.45,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:14.250137",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:15.720944",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:18.837604",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 动物",
+            "result_url": "https://www.kuaishou.com/",
+            "title": "kuaishou.comhttps://www.kuaishou.com",
+            "snippet": "快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。",
+            "fetched_at": "2026-10-14T07:40:21.968076",
+            "error": null
+          },
+          {
+            "platform": "kuaishou",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:23.462731",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Single on-platform hit; evidence thin."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:26.609809",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:29.663770",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:32.772835",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:35.885750",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:38.975416",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:42.078467",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:43.577854",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:46.659828",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:49.780796",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:51.347799",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:52.829545",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:55.906518",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:57.397560",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:40:58.909978",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:41:00.400198",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "POSSIBLE_MATCH",
+    "score": {
+      "funny_healing": 25.0,
+      "hook_first_3s": 10.0,
+      "domestic_freshness": 10.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "385268943149710263",
+      "url": "https://www.pinterest.com/pin/385268943149710263/",
+      "title": "Dogs heal the soul 🤍🐾 | Fluffy puppies cozy setting, Fluffy dog in living room, Cozy dog moments",
+      "description": "Jul 7, 2026 — Salinamariahome on January 31, 2025: \"Dogs heal the soul 🤍🐾\". Two small dogs sitting on a light-colored sofa. The dog on the left is brown, and the dog on the right is white. Home with dogs, Dog baby, Pups",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/20/ce/38/20ce3874f179d3e7c5b1672e812278c6.jpg",
+      "video_url": null,
+      "source_query": "healing dog moment",
+      "tags": [],
+      "raw": {
+        "id": "385268943149710263",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "dog"
+      ],
+      "tone": [
+        "healing"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:07.215503",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:10.317589",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:11.835717",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:13.427730",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:16.418807",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:19.540743",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:22.636443",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:25.750021",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:28.889357",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:31.980210",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:35.129917",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:38.214971",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:39.706755",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:42.816570",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:45.887774",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:49.012158",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:52.110612",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:53.628262",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:56.731306",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:45:59.850511",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:02.950789",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:06.061424",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:09.174334",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:12.330269",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:46:15.381612",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "NOT_FOUND",
+    "score": {
+      "funny_healing": 21.0,
+      "hook_first_3s": 6.0,
+      "domestic_freshness": 18.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. No strong domestic hit — localize captions and trending audio carefully. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "799248265118586643",
+      "url": "https://www.pinterest.com/pin/799248265118586643/",
+      "title": "Healing Dog Statue | Dog photoshoot, Lion sculpture, Face mask",
+      "description": "This heartwarming statue depicts a dog with a bandage on its head, lying in bed and covered with a sheet. A touching representation of healing and recovery. Poodle, Dog drink, Dog sitter",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/27/98/58/2798587a783b6f43559d84fc84f4058c.jpg",
+      "video_url": null,
+      "source_query": "healing dog moment",
+      "tags": [],
+      "raw": {
+        "id": "799248265118586643",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "dog"
+      ],
+      "tone": [
+        "healing"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:36.027772",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:39.127889",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:42.251073",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:45.345348",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:48.467573",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:51.589605",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:54.667672",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:47:57.791720",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:00.884050",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:03.984584",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:07.103849",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:10.211185",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:13.334777",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:16.445186",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:19.539618",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:22.648597",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:24.218671",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:27.245394",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:30.362769",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:31.863955",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:34.976032",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:38.073028",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:41.263833",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:42.690976",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:46.058663",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "NOT_FOUND",
+    "score": {
+      "funny_healing": 21.0,
+      "hook_first_3s": 6.0,
+      "domestic_freshness": 18.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. No strong domestic hit — localize captions and trending audio carefully. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "822540319488051494",
+      "url": "https://www.pinterest.com/pin/822540319488051494/",
+      "title": "Be young be foolish be happy | Quotes about being silly, Colorful lyrics, Cool quotes for room",
+      "description": "29 Aug 2026 — Crayon text, Positive quotes, Positivity",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/71/3d/c4/713dc48f69489360260e21bf14f963a5.jpg",
+      "video_url": null,
+      "source_query": "healing dog moment",
+      "tags": [],
+      "raw": {
+        "id": "822540319488051494",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "dog"
+      ],
+      "tone": [
+        "healing"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:48.309441",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:49.790200",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:52.990075",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:55.988940",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:48:59.100572",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:00.592691",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:02.099135",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:05.263698",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:08.365597",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:09.837568",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:12.987846",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:16.184484",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:19.188491",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:20.663701",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:23.756713",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:25.281549",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:26.759115",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:29.889346",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:32.984260",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:36.099426",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:39.209983",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:42.294753",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:45.412284",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:48.544415",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:49:50.054982",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "NOT_FOUND",
+    "score": {
+      "funny_healing": 21.0,
+      "hook_first_3s": 6.0,
+      "domestic_freshness": 18.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. No strong domestic hit — localize captions and trending audio carefully. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "793337290656086487",
+      "url": "https://www.pinterest.com/pin/793337290656086487/",
+      "title": "At the end of the day, what stays with you isn’t what you owned, but how you lived. 🌅 The kindness you gave, the moment… [Video] | Little life game quotes, Little life game wallpaper aesthetic, Life lessons",
+      "description": "28 Jun 2026 — A person sitting on a grassy hillside, looking at three thought bubbles above them. Each bubble contains a different scene: a couple embracing, children around a campfire, and a dog. In this moment, A meaningful life, The peace",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/14/ff/47/14ff47cd1fe5ccb6e723b146f84cff54.jpg",
+      "video_url": null,
+      "source_query": "healing dog moment",
+      "tags": [],
+      "raw": {
+        "id": "793337290656086487",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "dog",
+        "monkey"
+      ],
+      "tone": [
+        "healing"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:50:59.422612",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:02.542109",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:05.652102",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:07.169711",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:08.631847",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:11.721461",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:13.232628",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:16.363054",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:17.842299",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:19.352935",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:20.981556",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:23.940923",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:27.061463",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:30.198775",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:33.303161",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:36.386465",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:39.494436",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:42.634438",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:44.095210",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:47.202415",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "狗治愈短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:50.359022",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 治愈 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:53.491280",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 monkey 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:56.514764",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "狗 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:51:59.626876",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "治愈 狗 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:52:02.768068",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "NOT_FOUND",
+    "score": {
+      "funny_healing": 21.0,
+      "hook_first_3s": 6.0,
+      "domestic_freshness": 18.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. No strong domestic hit — localize captions and trending audio carefully. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "198017714864111383",
+      "url": "https://www.pinterest.com/pin/198017714864111383/",
+      "title": "Cute cats and dog videos funny | Optical illusions pictures, Scared cat, Short humor",
+      "description": "Jul 31, 2026 — Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube. Cat illusion, Funny short video",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/c9/48/e5/c948e5c7e95b5aba55ebcdd39bedc254.jpg",
+      "video_url": null,
+      "source_query": "funny cat video short",
+      "tags": [],
+      "raw": {
+        "id": "198017714864111383",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "cat",
+        "dog"
+      ],
+      "tone": [
+        "funny",
+        "healing"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.6,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "猫搞笑短视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E7%9F%AD%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑短视频合集",
+            "snippet": "猫搞笑短视频合集 猫咪爆火的猫猫的搞笑可爱视频同款 猫搞笑短视频大全 猫咪爆笑视频笑得肚子疼书籍 猫绝育后搞笑视频 猫咪猫猫 …",
+            "fetched_at": "2026-10-14T07:33:36.496774",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91%E6%8E%92%E8%A1%8C",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑视频排行",
+            "snippet": "哈哈哈哈哈哈好好笑！ #猫猫#萌宠出道计划#猫咪的迷惑行为#猫精#猫咪的日常 00:00/05:22 瓜君 · 1年前 2024年爆笑猫咪视频合集： …",
+            "fetched_at": "2026-10-14T07:33:39.589156",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:42.716990",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:45.890671",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "搞笑 猫 宠物",
+            "result_url": "https://www.douyin.com/video/7695917506145435337",
+            "title": "douyin.comhttps://www.douyin.com› video",
+            "snippet": "1 day ago· 猫咪搞笑对话 #萌猫宠物 #萌宠猫咪 #可爱萌宠小猫咪 #搞笑猫咪 #搞笑猫咪视频 - 大王宠物馆于20261013发布在抖音，已 …",
+            "fetched_at": "2026-10-14T07:33:48.940249",
+            "error": null
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Multiple on-platform search hits; manual verify recommended."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.45,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:52.019774",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:53.568315",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:33:56.633153",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 动物",
+            "result_url": "https://www.kuaishou.com/",
+            "title": "kuaishou.comhttps://www.kuaishou.com",
+            "snippet": "快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。Read more",
+            "fetched_at": "2026-10-14T07:33:59.768442",
+            "error": null
+          },
+          {
+            "platform": "kuaishou",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:01.259049",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Single on-platform hit; evidence thin."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:04.387125",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:07.449771",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:10.559579",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:13.699235",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:16.773973",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:19.898694",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:23.006972",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:26.071776",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:29.187506",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:32.334876",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:33.831538",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:37.037210",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 狗 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:38.436120",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:41.529931",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:44.641429",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "POSSIBLE_MATCH",
+    "score": {
+      "funny_healing": 25.0,
+      "hook_first_3s": 6.0,
+      "domestic_freshness": 10.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "989525349401913145",
+      "url": "https://www.pinterest.com/pin/989525349401913145/",
+      "title": "Funny animal videos hilarious cats | After life, Short humor, Extremely funny jokes",
+      "description": "18 July 2026 — Cat memes, Goofy cats, Silly cats",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/15/a0/cd/15a0cd85e50738c5e9147bed5d03f3c4.jpg",
+      "video_url": null,
+      "source_query": "funny cat video short",
+      "tags": [],
+      "raw": {
+        "id": "989525349401913145",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "cat",
+        "animal"
+      ],
+      "tone": [
+        "funny"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.6,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "猫搞笑短视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E7%9F%AD%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑短视频合集",
+            "snippet": "猫搞笑短视频合集 猫咪爆火的猫猫的搞笑可爱视频同款 猫搞笑短视频大全 猫咪爆笑视频笑得肚子疼书籍 猫绝育后搞笑视频 猫咪猫猫 …",
+            "fetched_at": "2026-10-14T07:34:48.508264",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91%E6%8E%92%E8%A1%8C",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑视频排行",
+            "snippet": "哈哈哈哈哈哈好好笑！ #猫猫#萌宠出道计划#猫咪的迷惑行为#猫精#猫咪的日常 00:00/05:22 瓜君 · 1年前 2024年爆笑猫咪视频合集： …",
+            "fetched_at": "2026-10-14T07:34:51.631419",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 动物 同款",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E7%8B%97%E5%90%8C%E6%A1%86%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫狗同框视频合集",
+            "snippet": "猫狗同框视频合集 猫狗同框视频 搞笑视频猫狗合集 猫狗同框日常 猫狗视频合集 狗狗和猫猫一起出场拍的视频同款 猫狗可爱视频合集  …Read more",
+            "fetched_at": "2026-10-14T07:34:54.715589",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:34:57.803668",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "搞笑 猫 宠物",
+            "result_url": "https://www.douyin.com/video/7695917506145435337",
+            "title": "douyin.comhttps://www.douyin.com› video",
+            "snippet": "1 day ago· 猫咪搞笑对话 #萌猫宠物 #萌宠猫咪 #可爱萌宠小猫咪 #搞笑猫咪 #搞笑猫咪视频 - 大王宠物馆于20261013发布在抖音，已 …",
+            "fetched_at": "2026-10-14T07:34:59.341316",
+            "error": null
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Multiple on-platform search hits; manual verify recommended."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.45,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:00.796101",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:03.910637",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:05.406014",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 动物",
+            "result_url": "https://www.kuaishou.com/",
+            "title": "kuaishou.comhttps://www.kuaishou.com",
+            "snippet": "快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。",
+            "fetched_at": "2026-10-14T07:35:08.529339",
+            "error": null
+          },
+          {
+            "platform": "kuaishou",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:11.646976",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Single on-platform hit; evidence thin."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:13.144462",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:16.231449",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:19.323767",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:22.451042",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:25.599471",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:27.030728",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:30.142696",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:33.285835",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:36.431714",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:39.472047",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:42.610721",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:44.074328",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:47.425294",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:50.523699",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:35:53.575033",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "POSSIBLE_MATCH",
+    "score": {
+      "funny_healing": 25.0,
+      "hook_first_3s": 6.0,
+      "domestic_freshness": 10.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. Source is image/GIF — use kinetic text + SFX for first 3s."
+  },
+  {
+    "pin": {
+      "pin_id": "1125196288167044847",
+      "url": "https://www.pinterest.com/pin/1125196288167044847/",
+      "title": "Funny cat videos clean | Cat funny moments, Humor videos, Funny animal jokes",
+      "description": "Aug 18, 2026 — Cute cats photos, Cat memes, Silly cats",
+      "media_type": "image",
+      "thumbnail_url": "https://i.pinimg.com/736x/59/9b/d7/599bd7cd18ce2fd4849b79ef64601d5c.jpg",
+      "video_url": null,
+      "source_query": "funny cat video short",
+      "tags": [],
+      "raw": {
+        "id": "1125196288167044847",
+        "is_video": false
+      }
+    },
+    "analysis": {
+      "is_animal": true,
+      "animal_labels": [
+        "cat",
+        "animal"
+      ],
+      "tone": [
+        "funny",
+        "healing"
+      ],
+      "has_action": false,
+      "hook_notes": "Static/GIF — hook must be designed in remake (text + sound + quick cut).",
+      "story_notes": "Has narrative caption cues",
+      "rights_hint": "unclear",
+      "confidence": 0.85
+    },
+    "domestic": [
+      {
+        "platform": "douyin",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.6,
+        "evidence": [
+          {
+            "platform": "douyin",
+            "query": "猫搞笑短视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E7%9F%AD%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑短视频合集",
+            "snippet": "猫搞笑短视频合集 猫咪爆火的猫猫的搞笑可爱视频同款 猫搞笑短视频大全 猫咪爆笑视频笑得肚子疼书籍 猫绝育后搞笑视频 猫咪猫猫 …Read more",
+            "fetched_at": "2026-10-14T07:38:06.883412",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 视频",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91%E6%8E%92%E8%A1%8C",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫搞笑视频排行",
+            "snippet": "哈哈哈哈哈哈好好笑！ #猫猫#萌宠出道计划#猫咪的迷惑行为#猫精#猫咪的日常 00:00/05:22 瓜君 · 1年前 2024年爆笑猫咪视频合集： …",
+            "fetched_at": "2026-10-14T07:38:09.996727",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 动物 同款",
+            "result_url": "https://www.douyin.com/search/%E7%8C%AB%E7%8B%97%E5%90%8C%E6%A1%86%E8%A7%86%E9%A2%91%E5%90%88%E9%9B%86",
+            "title": "douyin.comhttps://www.douyin.com› search ›猫狗同框视频合集",
+            "snippet": "猫狗同框视频合集 猫狗同框视频 搞笑视频猫狗合集 猫狗同框日常 猫狗视频合集 狗狗和猫猫一起出场拍的视频同款 猫狗可爱视频合集  …",
+            "fetched_at": "2026-10-14T07:38:11.523341",
+            "error": null
+          },
+          {
+            "platform": "douyin",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:14.665579",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "douyin",
+            "query": "搞笑 猫 宠物",
+            "result_url": "https://www.douyin.com/video/7695917506145435337",
+            "title": "douyin.comhttps://www.douyin.com› video",
+            "snippet": "1 day ago· 猫咪搞笑对话 #萌猫宠物 #萌宠猫咪 #可爱萌宠小猫咪 #搞笑猫咪 #搞笑猫咪视频 - 大王宠物馆于20261013发布在抖音，已 …Read more",
+            "fetched_at": "2026-10-14T07:38:16.121083",
+            "error": null
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Multiple on-platform search hits; manual verify recommended."
+      },
+      {
+        "platform": "kuaishou",
+        "status": "POSSIBLE_MATCH",
+        "confidence": 0.45,
+        "evidence": [
+          {
+            "platform": "kuaishou",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:19.222046",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:22.364976",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:25.457651",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "kuaishou",
+            "query": "猫 搞笑 动物",
+            "result_url": "https://www.kuaishou.com/",
+            "title": "kuaishou.comhttps://www.kuaishou.com",
+            "snippet": "快手是一款国民级短视频App，了解真实世界，认识有趣的人，记录真实而有趣的自己，拥抱每一种生活。",
+            "fetched_at": "2026-10-14T07:38:28.554468",
+            "error": null
+          },
+          {
+            "platform": "kuaishou",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:30.048155",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "Single on-platform hit; evidence thin."
+      },
+      {
+        "platform": "wechat_channels",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "wechat_channels",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:31.537619",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:33.065165",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:36.169513",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:39.266599",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "wechat_channels",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:42.346334",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "xiaohongshu",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "xiaohongshu",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:45.496907",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:47.019630",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:48.476507",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:51.567798",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "xiaohongshu",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:54.820876",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      },
+      {
+        "platform": "bilibili",
+        "status": "NOT_FOUND",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "platform": "bilibili",
+            "query": "猫搞笑短视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:56.171757",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 视频",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:57.668959",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 动物 同款",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:38:59.217541",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "猫 搞笑 动物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:02.259749",
+            "error": "no_on_platform_hits"
+          },
+          {
+            "platform": "bilibili",
+            "query": "搞笑 猫 宠物",
+            "result_url": null,
+            "title": null,
+            "snippet": null,
+            "fetched_at": "2026-10-14T07:39:03.750160",
+            "error": "no_on_platform_hits"
+          }
+        ],
+        "visual_hamming_min": null,
+        "notes": "No on-platform hits in allowed public search."
+      }
+    ],
+    "aggregate_dedup_status": "POSSIBLE_MATCH",
+    "score": {
+      "funny_healing": 25.0,
+      "hook_first_3s": 6.0,
+      "domestic_freshness": 10.0,
+      "remake_headroom": 15.0,
+      "story_completeness": 10.0,
+      "production_difficulty": 9.0
+    },
+    "adaptation_mode": "B",
+    "adaptation_notes": "Mode B AI remake: recreate beat structure with new footage/VO; do not claim free-to-use. Source is image/GIF — use kinetic text + SFX for first 3s."
+  }
+]
